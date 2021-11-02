@@ -10,3 +10,9 @@
 
 ##  Pitching Video 
 - https://youtu.be/tl5PG3S18Zs
+
+## App Demo video 
+- https://drive.google.com/file/d/1QqkudM50JkQb-1wpczyWnOH1ffBFWlGt/view?usp=sharing
+
+## Slides 
+- https://docs.google.com/presentation/d/1Cij7cBjBS18UgK0HeftyN6JEhHUZgLh3/edit?usp=sharing&ouid=117144827126868810096&rtpof=true&sd=true
