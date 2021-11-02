@@ -8,5 +8,5 @@
 
 ## We had used Oracle Analytics for prespective analysis and our app will be hosted on Oracle
 
-## Link For pitching Video 
-- link
+##  Pitching Video 
+- https://youtu.be/tl5PG3S18Zs
