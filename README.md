@@ -2,7 +2,7 @@
 
 <h2> Link For Kandi kit </h2>
 
-- Check out this developer kit on DimiFood (Reduce food waste by pred Libraries on kandi. It also has how-tos, Q&A, fixes, code snippets, ratings for each library. 
+- Check out this developer kit on <h4> DimiFood </h4>(Reduce food waste by pred Libraries on kandi. It also has how-tos, Q&A, fixes, code snippets, ratings for each library. 
 
  - Check this & millions of open source libraries here:https://kandi.openweaver.com/collections/topic-modeling/builwithai-reduce-food-wastage-by-p
 
