@@ -6,6 +6,9 @@
  - Will let them know if a family has 10 members how much food they need for one day or one week. 
  - What is chances of food to be waste according to there usage period if not distribuated at time.
  - will help them to take batter dicisions very quickly and efficiently.
+
+<h4> Doccument of Idea </h4>
+- https://docs.google.com/document/d/1F9xGB2q6_EvaRcBwIQGhAFAhWDrIAgHzd7PiYB6COT4/edit?usp=sharing
  
 
 
